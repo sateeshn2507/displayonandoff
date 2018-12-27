@@ -1,0 +1,26 @@
+{
+  "name": "electron-display-onandoff",
+  "version": "1.0.0",
+  "description": "A node module to turn the system's display on and off.fix electron package asar.unpacked path problem",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sateeshn2507/displayonandoff.git"
+  },
+  "keywords": [
+    "power management",
+    "display",
+    "sleep",
+    "screen",
+    "windows"
+  ],
+  "author": "Sateesh <sateeshn2507@> (http://github.com/sateeshn2507)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sateeshn2507/displayonandoff/issues"
+  },
+  "homepage": "https://github.com/sateeshn2507/dislayonandoff#readme"
+}
